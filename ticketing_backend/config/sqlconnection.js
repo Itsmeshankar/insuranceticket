@@ -3,6 +3,6 @@ var config = require("./index");
 
 const sequelize = new Sequelize(config.database, config.username, config.pwd, {
   host: config.sqllink,
-  dialect: config.database,
+  dialect: config.databasetype,
 });
 module.exports = sequelize;

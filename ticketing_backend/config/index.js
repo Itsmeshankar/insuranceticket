@@ -5,6 +5,6 @@ module.exports = {
   username: "root",
   databasetype: "mysql",
   pwd: "",
-  secret: "com.kalimatee.S@ng#mP^(D3L",
-  refreshSecret: "s@NG#mL3)D&^P51",
+  secret: "com.ticketing.$y$t3M^(D3L",
+  refreshSecret: "$y$@43M#mL3)D&^P51",
 };
